@@ -79,7 +79,6 @@ conda install -c conda-forge pytorch torchvision torchaudio cudatoolkit=11.8
 ```
 
 ## 🛠 Tool
-![image](https://github.com/user-attachments/assets/8ce29734-26a6-4d56-b624-b153ab95facc)
 ![image](https://github.com/user-attachments/assets/1a1dae06-c978-4d20-ad2e-934635a9189e)
 ![image](https://github.com/user-attachments/assets/bec72076-427c-47ed-bb08-6d184ea36846)
 ![image](https://github.com/user-attachments/assets/f04dc29a-c335-41a2-b12b-bef9a8c802e8)
